@@ -1,2 +1,1 @@
-# git-exercise-3
-FH Technikum Wien - Konfigurationsmanagement - Exercise Sheet 3
+# Git Exercise 3 - Developer 1
